@@ -1,2 +1,2 @@
 # CS014 UCR
-Data Structures and Algorithms 
+All labs and programming assignments in my Data Structures and Algorithms class
